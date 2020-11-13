@@ -1,5 +1,5 @@
 # PHP-Webshell-Dataset
-A cleaned dataset of PHP webshell from 16 webshell collection projects on Github.
+A cleaned dataset of PHP webshell from 17 webshell collection projects on Github.
 
 We construct a cleaned data set to facilitate subsequent related research via collecting 17 existing Webshell data sets on Github, The md5 algorithm has been used to remove the duplicate webshell samples, and some non-PHP code webshell files through manual analysis.
 
