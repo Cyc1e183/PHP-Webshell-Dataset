@@ -23,3 +23,4 @@ We construct a cleaned data set to facilitate subsequent related research via co
 |  15  |  backdoorhub/shell-backdoor-list   |
 |  16  |       amitnaik/PHP-backdoor        |
 
+Since webshell samples collected by each github project inevitably include partial duplicate sample files, in order to avoid repeated webshell sample files affecting the experimental results, we used md5 algorithm to reprocess 6021 webshell samples and obtained total of 3211 non-repeated webshell sample files. Meanwhile, in oder to ensure the accuracy of the data ,294 non-PHP webshell files were excluded by manual analysis, so the final number of webshell samples was 2917.
