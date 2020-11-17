@@ -1,8 +1,3 @@
-<style>
-table {
-margin: auto;
-}
-</style>
 # PHP-Webshell-Dataset
 We construct a cleaned data set to facilitate subsequent related research via collecting 17 existing Webshell data sets on Github.
 
